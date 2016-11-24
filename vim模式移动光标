@@ -1,0 +1,6 @@
+[
+	{ "keys": ["alt+l"], "command": "move", "args": {"by": "word_ends", "forward": true} },
+	{ "keys": ["alt+h"], "command": "move", "args": {"by": "word_ends", "forward": false} },
+	{ "keys": ["alt+j"], "command": "move", "args": {"by": "lines", "forward": true} },
+	{ "keys": ["alt+k"], "command": "move", "args": {"by": "lines", "forward": false} }
+]
